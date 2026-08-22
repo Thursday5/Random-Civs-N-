@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Honey",
+		"name": "Honey", // Beehive luxury
 		"uniqueTo": "Beehive",
 		"cost": 0,
 		"requiredTech": "Agriculture"
