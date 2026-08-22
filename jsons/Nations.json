@@ -40,6 +40,7 @@
 		"name": "Gangsters"
 		"leaderName": "Lucky Luciano",
 		"adjective": ["criminal"],
+		"startBias": ["Plains", "Avoid [Forest]"]
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Lucky, you're the hardest bastard we've ever seen, a true idol to all the sons of chaos and opportunity. I'd raise a glass for you, Lucky, but you know how this business goes... just when you think you're done, they pull you back in! So the boys had to drag you from the afterlife, big deal! It's not like we pulled you out from anywhere pleasant! hehehe...",
