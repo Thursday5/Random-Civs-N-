@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# Random Civilizations
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+My first mod... really just adding random ideas for civs I had. Currently, there is only one added: the Beehive. More to come, let's hope.
