@@ -14,10 +14,10 @@
 		"defeated": "Oh! My bees! My honey!",
 		"introduction": "You like honey, don't you?",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["Sorry, hun, we can't do it.","It's not you, it's me","How sweet... I'll have to refuse, though."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "What're you up to, cutie?",
+		//"neutralLetsHearIt": ["Well?","You may begin trying to entice me.","This had better be exciting."],
+		//"neutralNo": ["Sorry, hun, we can't do it.","It's not you, it's me","You're so sweet... I'll have to refuse, though."],
+		//"neutralYes": ["You know how to make a queen happy.","Really attractive behavior being complacent to me.","That is very good."],
 
 		"hateHello": "What do you want now?",
 		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
