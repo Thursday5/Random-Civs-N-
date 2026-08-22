@@ -5,6 +5,7 @@
 		"uniqueTo": "Beehive",
 		"replaces": "Worker",
 		"cost": 40,
+		"movement": 2,
 		"requiredTech": "Agriculture",
 		"uniques": [
 			"Can build [Land] imrpvements on tiles", 
