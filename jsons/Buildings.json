@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Honeycomb", // Beehive luxury
+		"name": "Honey Comb", // Beehive luxury
 		"uniqueTo": "Beehive",
 		"cost": 0,
 		"requiredTech": "Agriculture"
 		"uniques": [
 			"Provides [1] [Honey]"
 			"Never destroyed when the city is captured",
-			"Only available <in cities without a [Honeycomb]>",
+			"Only available <in cities without a [Honey Comb]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
