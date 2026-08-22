@@ -29,9 +29,10 @@
 		"denounced": "You are SO not my type.",
 		"declaringfriendship": "I think I... like-like you...",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "BUZZING_ECONOMY",
+		"outerColor": [65,141,254],
+		"innerColor": [255,240,138],
+		"uniqueName": "Buzzing Economy",
+		"uniques": [Free [Honey] is built <in newly-founded cities>]
 		"cities": ["Queen's Court","Bee Town","Bee City","New Bee City","Beeshire","Beebeelon","Bee Falls","Bee Ridge","Beeland",
 			"Home of Bees","Golden Bee","Lesser Bee","Bee Island","Rockaway Beeach","Greater Bee","Bee Heights Sbdv.","Old Bee","The Bee Hold", "Bee's Keep", "Bee Heritage"]
 	}
