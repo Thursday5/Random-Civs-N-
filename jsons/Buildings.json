@@ -7,7 +7,7 @@
 		"uniques": [
 			"Provides [1] [Honey]"
 			"Never destroyed when the city is captured",
-			"Only available <in cities without a [Honey]>",
+			"Only available <in cities without a [Honeycomb]>",
 			"Will not be displayed in Civilopedia"
 		]
 	},
