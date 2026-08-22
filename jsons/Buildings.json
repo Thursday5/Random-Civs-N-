@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Honey Comb", // Beehive luxury
-		"uniqueTo": "Beehive",
+		"uniqueTo": "Bee Hive",
 		"cost": 0,
 		"requiredTech": "Agriculture"
 		"uniques": [
