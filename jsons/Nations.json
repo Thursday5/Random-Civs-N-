@@ -29,8 +29,8 @@
 		"denounced": "You are SO not my type.",
 		"declaringfriendship": "I think I... like-like you...",
 
-		"outerColor": [65,141,254],
-		"innerColor": [255,240,138],
+		"outerColor": [255,240,138],
+		"innerColor": [255,255,255],
 		"uniqueName": "Buzzing Economy",
 		"uniques": ["Gain a free [Honeycomb] <upon founding a city>"]
 		"cities": ["Queen's Court","Bee Town","Bee City","New Bee City","Beeshire","Beebeelon","Bee Falls","Bee Ridge","Beeland",
