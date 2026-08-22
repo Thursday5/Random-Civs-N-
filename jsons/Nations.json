@@ -32,7 +32,7 @@
 		"outerColor": [255,240,138],
 		"innerColor": [255,255,255],
 		"uniqueName": "Buzzing Economy",
-		"uniques": ["Gain a free [Honeycomb] <upon founding a city>"]
+		"uniques": ["Gain a free [Honey Comb] <upon founding a city>"]
 		"cities": ["Queen's Court","Bee Town","Bee City","New Bee City","Beeshire","Beebeelon","Bee Falls","Bee Ridge","Beeland",
 			"Home of Bees","Golden Bee","Lesser Bee","Bee Island","Rockaway Beeach","Greater Bee","Bee Heights Sbdv.","Old Bee","The Bee Hold", "Bee's Keep", "Bee Heritage"]
 	},
