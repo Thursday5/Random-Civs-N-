@@ -35,5 +35,40 @@
 		"uniques": ["Gain a free [Honeycomb] <upon founding a city>"]
 		"cities": ["Queen's Court","Bee Town","Bee City","New Bee City","Beeshire","Beebeelon","Bee Falls","Bee Ridge","Beeland",
 			"Home of Bees","Golden Bee","Lesser Bee","Bee Island","Rockaway Beeach","Greater Bee","Bee Heights Sbdv.","Old Bee","The Bee Hold", "Bee's Keep", "Bee Heritage"]
-	}
+	},
+	{
+		"name": "Gangsters"
+		"leaderName": "Lucky Luciano",
+		"adjective": ["criminal"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Lucky, you're the hardest bastard we've ever seen, a true idol to all the sons of chaos and opportunity. I'd raise a glass for you, Lucky, but you know how this business goes... just when you think you're done, they pull you back in! So the boys had to drag you from the afterlife, big deal! It's not like we pulled you out from anywhere pleasant! hehehe...",
+		"startIntroPart2": "Truth is, we're all going where you were in the end. Until then, why don't you do this final job for us?",
+
+		"declaringWar": "You've messed with us one too many times, Ringo",
+		"attacked": "You'll be sleeping with the fishes for this!",
+		"defeated": "I don't suppose we can negotiate this?",
+		"introduction": "Well, I'll be damned. See, i'm a real friendly guy when you really come to know me.",
+
+		"neutralHello": "What you got for me?"
+		//"neutralLetsHearIt": ["This better be good.","Use your tongue well, or you'll lose it","Don't waste my time"],
+		//"neutralNo": ["I don't like jokes","Take care, why don't you?","Am I supposed to be impressed by that?"],
+		//"neutralYes": ["I'll say! Ain't this why we're friends?","You're gonna go far, kid.","I'll drink to that."],
+
+		"hateHello": "You've got some nerve, i'll give you that.",
+		//"hateLetsHearIt": ["You talking or I do I have to 'motivate' you?","Well, spit it!","You trying to waste my time?"],
+		//"hateNo": ["Not exactly the sharpest knife in the drawer, are you?","I got two words for that, pal","I'd whack you now, pal, only that I prefer to ruin you first."],
+		//"hateYes": ["Let it not be known that Lucky can't put aside his differences for a score","Interesting, maybe there's still hope for our business together?","Who would have thought?"],
+
+		//"afterPeace": "See, I don't like to carry resentments. Ain't that what friends are for?",
+		"tradeRequest": "Here's an offer you can't refuse.",
+		"denounced": "I want you dead! I want your people dead! I want your house burnt to the ground! I want to come over and stomp on your ashes!",
+		"declaringfriendship": "I think we can make some good business, you and I",
+
+		"outerColor": [0,1,3],
+		"innerColor": [255,255,255],
+		"uniqueName": "King of Crime",
+		"cities": ["Little Italy","Chinatown","Harlem","Las Vegas","East St. Louis","South Side","Cicero","Hell's Kitchen","Five Points",
+			"Bowery","Kansas City","West Side","Soho","Little Ireland"]
+	},
 ]
