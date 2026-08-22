@@ -3,6 +3,7 @@
 {
   "name": "Honey",
   "resourceType": "Luxury",
+  "food": 2,
   "uniques": ["Doesn't generate naturally"]
 }
 ]
