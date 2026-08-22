@@ -1,40 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Beehive",
+		"leaderName": "Queen Bee",
+		"adjective": ["insectoid"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Ayup, good day, your majesty! Winter's a-coming and you'd best get fertile, else we all starve, eh? Best get down to it, but don't work yourself up too hard.",
+		"startIntroPart2": "You go girl!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Muwahahaha, I hope you don't mind being stung a whole lot!",
+		"attacked": "Is this how you treat a queen?!",
+		"defeated": "Oh! My bees! My honey!",
+		"introduction": "You like honey, don't you?",
 		
 		"neutralHello": "How are you doing?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		//"neutralNo": ["Sorry, hun, we can't do it.","It's not you, it's me","How sweet... I'll have to refuse, though."],
 		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
 		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		//"hateNo": ["Do I even have to say it?","Don't kid yourself.","Don't even think about it."],
+		//"hateYes": ["Ugh... Sure, whatever.","This doesn't mean i'm not still mad at you.","Very well..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		//"afterPeace": "Good, you were losing anyways.",
+		"tradeRequest": "Sweet, right?",
+		"denounced": "You are SO not my type.",
+		"declaringfriendship": "I think I... like-like you...",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"unique": "BUZZING_ECONOMY",
+		"cities": ["Queen's Court","Bee Town","Bee City","New Bee City","Beeshire","Beebeelon","Bee Falls","Bee Ridge","Beeland",
+			"Home of Bees","Golden Bee","Lesser Bee","Bee Island","Rockaway Beeach","Greater Bee","Bee Heights Sbdv.","Old Bee","The Bee Hold", "Bee's Keep", "Bee Heritage"]
 	}
 ]
