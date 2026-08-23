@@ -1,0 +1,11 @@
+game.png
+size:512,128
+repeat:none
+BuildingIconsHoney Comb
+bounds:308,2,100,100
+NationIconsBee Hive
+bounds:2,2,100,100
+ResourceIconsHoney
+bounds:104,2,100,100
+UnitIconsWorker Bee
+bounds:206,2,100,100
